@@ -1,6 +1,6 @@
 ### Lee Dae Kyu
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wuid0801&show_icons=true&theme=radical))
+
 
 
 ## 📞 Contact 
